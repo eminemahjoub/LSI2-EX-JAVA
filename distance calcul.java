@@ -2,7 +2,7 @@ public class point(){ //declaration d une classe point
 // declaration d une champs : x,y
 private int x;
 private int y;
-//declaration de consruct
+//declaration de consructeur
 public point (int startX, int startY){
     x=startX;
     y=startY;
