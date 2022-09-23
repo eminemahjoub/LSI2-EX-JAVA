@@ -1,5 +1,5 @@
 public class point(){ //declaration d une classe point
-// declaration d une champs : x,y
+// declaration  d une champs : x,y
 private int x;
 private int y;
 //declaration de consructeur
