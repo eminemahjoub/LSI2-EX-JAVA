@@ -20,7 +20,7 @@ public class test6 {
 	static void Affiche(int n, int v[]) {
 		for(int i=0;i<n;i++) {
 			System.out.println("v[" +i+"]=  "+v[i]);
-		}
+		
 		
 	}
  static boolean existe(int vx,int t[]) {
