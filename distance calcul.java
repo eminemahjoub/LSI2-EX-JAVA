@@ -7,7 +7,7 @@ public point (int startX, int startY){
     x=startX;
     y=startY;
 }
-// declartion de 3 method
+// declartion de 3 methods
 public int getX(){
     return x;
 } 
